@@ -1,6 +1,6 @@
 # NutriRate
 <div align="center">
-    ![image](https://github.com/user-attachments/assets/63b998df-bb32-40c8-ac72-30ef265ae9f1)
+<img src="https://github.com/NutriRate-Bangkit/.github/blob/main/NutriRate.png?raw=true" width="50%" height="50%" >
 </div>
 ## About
 Public health in Indonesia is heavily impacted by a lack of awareness regarding nutritional information on food products, with only 6.7% of consumers reading labels (Amerta Nutrition, 2023). This ignorance contributes to rising rates of obesity and other non-communicable diseases (NCDs), such as diabetes. To address this, NutriRate is a mobile platform that helps consumers make healthier food choices by providing clear and accessible nutritional ratings based on the food they input. By offering an easy-to-understand grading system, NutriRate empowers users to make informed decisions and aims to improve public health outcomes across Indonesia.
