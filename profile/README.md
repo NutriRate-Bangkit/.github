@@ -4,16 +4,13 @@
 <br />
 <div align="center">
   <img src="https://github.com/NutriRate-Bangkit/.github/blob/main/NutriRate.png?raw=true" width="200">
-  
   <h1 align="center">NutriRate</h1>
-  <h2 align="center">
-  Your Nutrition Grading Assistant</h2>
-  
-  <p align="left">
-    A mobile platform to help consumers in Indonesia make healthier food choices by providing clear and accessible nutritional ratings.
-    <br />
+  <h2 align="center">Your Nutrition Grading Assistant</h2>
+</div>
 
-# About The Project
+---
+
+## About The Project
 
 Public health in Indonesia is heavily impacted by a lack of awareness regarding nutritional information on food products, with only 6.7% of consumers reading labels (*Amerta Nutrition, 2023*). This ignorance contributes to rising rates of obesity and other non-communicable diseases (NCDs), such as diabetes.
 
@@ -25,7 +22,7 @@ Our platform uses machine learning to classify and analyze food nutritional valu
 
 ---
 
-# Team Members
+## Team Members
 
 | ID            | Name                      | Learning Path       | GitHub Profile                                 |
 | :-----------: | :-----------------------: | :-----------------: | :-------------------------------------------: |
@@ -39,7 +36,7 @@ Our platform uses machine learning to classify and analyze food nutritional valu
 
 ---
 
-# Repositories
+## Repositories
 
 | Learning Path      | Repository Link                                     |
 | :----------------: | :------------------------------------------------: |
@@ -49,7 +46,7 @@ Our platform uses machine learning to classify and analyze food nutritional valu
 
 ---
 
-# Project Documents
+## Project Documents
 
 - **[Project Brief](#)**
 - **[APK Link](#)**
@@ -58,21 +55,20 @@ Our platform uses machine learning to classify and analyze food nutritional valu
 
 ---
 
-# App Overview
+## App Overview
 
-- **Prerequisites**
-  - Android device
-  - Internet connection
+### Prerequisites
+- Android device
+- Internet connection
 
-- **Installation**
-  - Download the APK.
-  - Install the APK on your Android device.
+### Installation
+- Download the APK.
+- Install the APK on your Android device.
 
-- **Registration**
-  - Open the NutriRate application.
-  - Register using your email address.
+### Registration
+- Open the NutriRate application.
+- Register using your email address.
 
 ---
 
-# Documentation
-
+## Documentation
