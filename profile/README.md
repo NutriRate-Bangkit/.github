@@ -1,6 +1,6 @@
 # NutriRate
 <div align="center">
-<img src="https://github.com/NutriRate-Bangkit/.github/blob/main/NutriRate.png?raw=true" width="50%" height="50%" >
+<img src="https://github.com/NutriRate-Bangkit/.github/blob/main/NutriRate.png?raw=true" width="200" >
 </div>
 
 ## About
