@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github.com/NutriRate-Bangkit/.github/blob/main/NutriRate.png?raw=true" width="200">
   <h1 align="center">NutriRate</h1>
-  <h2 align="center">Your Nutrition Grading Assistant</h2>
+  <h2 align="center">Nutrition, Simplified</h2>
 </div>
 
 ---
